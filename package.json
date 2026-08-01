@@ -2,7 +2,7 @@
   "name": "hotelpro",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://Datwasegovind.github.io/hotelpro/",
+  "homepage": "https://datwasegovind.github.io/hotelpro/",
   "type": "module",
   "scripts": {
     "dev": "vite",
