@@ -1,0 +1,4 @@
+[
+  { "id": "B001", "customerName": "Rohan Mehta", "contact": "9820011223", "tableId": "T003", "tableNumber": 3, "date": "2026-08-02", "time": "19:30", "guests": 4, "status": "Confirmed" },
+  { "id": "B002", "customerName": "Ananya Iyer", "contact": "9833344556", "tableId": "T010", "tableNumber": 10, "date": "2026-08-01", "time": "20:00", "guests": 5, "status": "Pending" }
+]

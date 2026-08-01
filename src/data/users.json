@@ -1,0 +1,4 @@
+[
+  { "id": "U001", "name": "Admin User", "email": "admin@hotelpro.com", "password": "admin123", "role": "ADMIN", "mobile": "9999900000" },
+  { "id": "U002", "name": "Rohan Mehta", "email": "rohan@example.com", "password": "customer123", "role": "CUSTOMER", "mobile": "9820011223" }
+]

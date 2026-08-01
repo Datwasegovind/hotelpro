@@ -1,0 +1,19 @@
+[
+  { "id": "F001", "name": "Paneer Butter Masala", "category": "Indian Food", "description": "Cottage cheese in a rich tomato-butter gravy", "price": 280, "emoji": "🧈", "available": true },
+  { "id": "F002", "name": "Butter Chicken", "category": "Indian Food", "description": "Classic tandoori chicken in creamy tomato sauce", "price": 340, "emoji": "🍛", "available": true },
+  { "id": "F003", "name": "Dal Makhani", "category": "Indian Food", "description": "Slow-cooked black lentils finished with cream", "price": 240, "emoji": "🍲", "available": true },
+  { "id": "F004", "name": "Veg Hakka Noodles", "category": "Chinese", "description": "Stir-fried noodles with seasonal vegetables", "price": 220, "emoji": "🍜", "available": true },
+  { "id": "F005", "name": "Chilli Chicken", "category": "Chinese", "description": "Indo-Chinese wok-tossed chicken in spicy sauce", "price": 300, "emoji": "🌶️", "available": true },
+  { "id": "F006", "name": "Manchurian Dry", "category": "Chinese", "description": "Crispy vegetable balls tossed in tangy sauce", "price": 210, "emoji": "🥡", "available": true },
+  { "id": "F007", "name": "Classic Cheese Burger", "category": "Fast Food", "description": "Grilled patty, cheddar, house sauce, brioche bun", "price": 260, "emoji": "🍔", "available": true },
+  { "id": "F008", "name": "Margherita Pizza", "category": "Fast Food", "description": "San Marzano tomato, mozzarella, fresh basil", "price": 320, "emoji": "🍕", "available": true },
+  { "id": "F009", "name": "Loaded French Fries", "category": "Fast Food", "description": "Crispy fries with cheese sauce and jalapenos", "price": 180, "emoji": "🍟", "available": true },
+  { "id": "F010", "name": "Fresh Lime Soda", "category": "Beverages", "description": "Sparkling lime with mint", "price": 110, "emoji": "🥤", "available": true },
+  { "id": "F011", "name": "Masala Chai", "category": "Beverages", "description": "Spiced Indian tea brewed fresh", "price": 70, "emoji": "☕", "available": true },
+  { "id": "F012", "name": "Cold Coffee", "category": "Beverages", "description": "Iced coffee blended with cream", "price": 150, "emoji": "🧋", "available": true },
+  { "id": "F013", "name": "Chocolate Lava Cake", "category": "Desserts", "description": "Warm cake with a molten chocolate centre", "price": 190, "emoji": "🍫", "available": true },
+  { "id": "F014", "name": "Gulab Jamun", "category": "Desserts", "description": "Soft milk dumplings in cardamom syrup", "price": 130, "emoji": "🍮", "available": true },
+  { "id": "F015", "name": "New York Cheesecake", "category": "Desserts", "description": "Baked cheesecake with berry compote", "price": 220, "emoji": "🍰", "available": true },
+  { "id": "F016", "name": "Chef's Tasting Platter", "category": "Special Items", "description": "Sommelier-curated 5-course tasting menu", "price": 950, "emoji": "🍽️", "available": true },
+  { "id": "F017", "name": "Tandoori Seafood Grill", "category": "Special Items", "description": "Char-grilled prawns and fish in tandoori spice", "price": 620, "emoji": "🦐", "available": false }
+]

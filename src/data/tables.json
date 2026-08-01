@@ -1,0 +1,14 @@
+[
+  { "id": "T001", "number": 1, "floor": 1, "capacity": 2, "type": "Indoor", "status": "Available" },
+  { "id": "T002", "number": 2, "floor": 1, "capacity": 4, "type": "Indoor", "status": "Occupied" },
+  { "id": "T003", "number": 3, "floor": 1, "capacity": 4, "type": "Window", "status": "Reserved" },
+  { "id": "T004", "number": 4, "floor": 1, "capacity": 6, "type": "Family", "status": "Available" },
+  { "id": "T005", "number": 5, "floor": 1, "capacity": 2, "type": "Indoor", "status": "Cleaning" },
+  { "id": "T006", "number": 6, "floor": 2, "capacity": 4, "type": "Balcony", "status": "Available" },
+  { "id": "T007", "number": 7, "floor": 2, "capacity": 8, "type": "Banquet", "status": "Occupied" },
+  { "id": "T008", "number": 8, "floor": 2, "capacity": 4, "type": "Indoor", "status": "Maintenance" },
+  { "id": "T009", "number": 9, "floor": 2, "capacity": 2, "type": "Window", "status": "Available" },
+  { "id": "T010", "number": 10, "floor": 1, "capacity": 6, "type": "Outdoor", "status": "Reserved" },
+  { "id": "T011", "number": 11, "floor": 2, "capacity": 4, "type": "Outdoor", "status": "Available" },
+  { "id": "T012", "number": 12, "floor": 1, "capacity": 2, "type": "Indoor", "status": "Available" }
+]

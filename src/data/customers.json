@@ -1,0 +1,5 @@
+[
+  { "id": "C001", "name": "Rohan Mehta", "mobile": "9820011223", "email": "rohan.mehta@example.com", "address": "Bandra West, Mumbai", "totalVisits": 6 },
+  { "id": "C002", "name": "Ananya Iyer", "mobile": "9833344556", "email": "ananya.iyer@example.com", "address": "Powai, Mumbai", "totalVisits": 3 },
+  { "id": "C003", "name": "Karan Kapoor", "mobile": "9711122334", "email": "karan.kapoor@example.com", "address": "Connaught Place, Delhi", "totalVisits": 1 }
+]

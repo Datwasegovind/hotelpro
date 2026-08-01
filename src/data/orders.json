@@ -1,0 +1,12 @@
+[
+  {
+    "id": "O001", "tableId": "T002", "tableNumber": 2, "customerName": "Walk-in Guest",
+    "items": [ { "foodId": "F002", "name": "Butter Chicken", "qty": 2, "price": 340 }, { "foodId": "F011", "name": "Masala Chai", "qty": 2, "price": 70 } ],
+    "orderTime": "2026-08-01T12:30:00.000Z", "status": "Preparing"
+  },
+  {
+    "id": "O002", "tableId": "T007", "tableNumber": 7, "customerName": "Karan Kapoor",
+    "items": [ { "foodId": "F008", "name": "Margherita Pizza", "qty": 1, "price": 320 }, { "foodId": "F009", "name": "Loaded French Fries", "qty": 1, "price": 180 } ],
+    "orderTime": "2026-08-01T13:05:00.000Z", "status": "Served"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "id": "INV001", "orderId": "O002", "tableNumber": 7, "customerName": "Karan Kapoor",
+    "items": [ { "name": "Margherita Pizza", "qty": 1, "price": 320 }, { "name": "Loaded French Fries", "qty": 1, "price": 180 } ],
+    "subtotal": 500, "gst": 25, "serviceCharge": 25, "discount": 0, "total": 550,
+    "paymentMethod": "UPI", "date": "2026-08-01T13:40:00.000Z"
+  }
+]
